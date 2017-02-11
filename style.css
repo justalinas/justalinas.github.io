@@ -4,7 +4,7 @@ body {
 }
 p{
 	color: white;
-	font-family: "Geneva";
+	font-family: "Arial Black";
 	position: relative;
 }
 li{
@@ -13,7 +13,7 @@ li{
 	text-align: center;
 	position: relative;
 }
-h3{
+h2{
 	color: white;
 	font-family: "Arial Black";
 }
